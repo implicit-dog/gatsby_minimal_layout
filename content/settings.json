@@ -13,31 +13,31 @@
       // "github": "https://github.com/konstantinmuenster",
       // "medium": "https://konstantinmuenster.medium.com",
       // "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:implict.ralph@gmail.com"
+      "mail": "mailto:mail@konstantin.digital"
     }
   },
   "siteConfiguration": {
     "logo": {
-      "text": "implicit.dog"
+      "text": "Portfolio"
     },
     "navigation": {
       "header": [
         {
           "label": "About",
           "url": "/#about"
+        },
+        {
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "label": "Features",
+          "url": "/#features"
+        },
+        {
+          "label": "Github",
+          "url": "/#github"
         }
-        // {
-        //   "label": "Blog",
-        //   "url": "/blog"
-        // },
-        // {
-        //   "label": "Features",
-        //   "url": "/#features"
-        // },
-        // {
-        //   "label": "Github",
-        //   "url": "/#github"
-        // }
       ],
       "ctaButton": {
         "openNewTab": true,
